@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.addPlayer {
+  padding: 3rem;
+}
+
+.addPlayer h1 {
+  margin: 2rem 0;
+}
+
+.addPlayer input {
+  border: none;
+  border-bottom: 2px solid black;
+  padding: 0.5rem 1rem;
+}
+
+.addPlayer button {
+  margin-left: 1rem;
+  padding: 0.5rem 2rem;
+  border: none;
+  border-radius: 20px;
+}
+
+.listPlayers {
+  padding: 3rem;
+  text-align: center;
+}
+
+.listPlayers h1 {
+  margin-bottom: 3rem;
+}
+
+.listPlayers ul li {
+  margin: 1rem 0;
+  list-style-type: none;
+}
+
+.listPlayers ul li a {
+  text-decoration: none;
+  color: black;
+  border-bottom: 1px solid black;
+}
+
+.listPlayers button {
+  margin-left: 1rem;
+  background-color: red;
+  border: none;
+  padding: 0.5rem 2rem;
+  border-radius: 20px;
+}
