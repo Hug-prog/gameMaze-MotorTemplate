@@ -31,11 +31,7 @@
         
         </div>
 
-            
-        <?php 
-            //require_once "$racine/Model/actionPlayerbd.php";
-            //updateAttack(1,3)
-        ?>
+        
 
         <!-- view maze -->
         <h1>Labyrinthe</h1>

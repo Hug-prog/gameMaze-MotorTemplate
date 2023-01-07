@@ -39,3 +39,10 @@ td[name="tdMobs"] {
   background-size: cover;
   background-position: center;
 }
+
+td[name="tdheart"] {
+  background-image: url("../img/heart.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
